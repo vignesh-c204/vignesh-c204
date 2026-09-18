@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:160b14,100:2a1020&height=220&section=header&text=Full%20Stack%20Developer&fontSize=48&fontColor=ffffff&fontAlignY=43&desc=Vignesh%20C&descSize=20&descAlignY=67" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:120914,100:351326&height=230&section=header&text=Full%20Stack%20Developer&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Vignesh%20C%20%7C%20Python%20%7C%20Django%20%7C%20Flask&descAlignY=65&descSize=18" width="100%" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,mysql,git,github,vscode,tensorflow" height="45" alt="Technology stack" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,mysql,git,github,vscode,tensorflow" height="44" alt="Tech stack" />
 
 <br><br>
 
@@ -10,43 +12,38 @@
 
 <br><br>
 
-<a href="https://github.com/vignesh-c204"><img src="https://img.shields.io/badge/GITHUB-VIGNESH--C204-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/FEATURED%20PROJECT-STOCKVISION-24292f?style=for-the-badge&logo=github&logoColor=white" alt="StockVision" /></a>
+<a href="https://github.com/vignesh-c204"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/STOCKVISION-24292f?style=for-the-badge&logo=github&logoColor=white" alt="StockVision" /></a>
 
 </div>
 
 <br>
 
-> **Building practical software with clean code, strong fundamentals and a continuous-learning mindset. 🚀**
+> **Building practical software with clean code.**
 
-### 👋 Hello, I'm Vignesh C
+👋 **Hello! I'm Vignesh C**, an MCA graduate and Full Stack Developer from India, focused on building web applications, backend systems and data-driven solutions.
 
-I'm an **MCA graduate and Full Stack Developer** focused on building practical web applications, backend services and data-driven solutions.
+💻 I work with **Python, Django, Flask, JavaScript, SQL and MySQL**, with a strong interest in backend development, REST APIs and machine learning.
 
-- 💻 Build full-stack applications with **Python, Django, Flask, JavaScript and SQL**.
-- ⚙️ Develop **REST APIs, backend services and database-driven applications**.
-- 🤖 Explore **Machine Learning with TensorFlow/Keras** and real-world applications.
-- 📈 Building and improving **StockVision**, a Flask + TensorFlow stock-analysis project.
-- 🌱 Continuously improving my skills in **Django, JavaScript, SQL, APIs and deployment**.
+🚀 I'm currently building and improving **StockVision**, a Flask + TensorFlow application for stock analysis and LSTM-based prediction.
 
-### 🛠️ Tech Stack
+🌱 I continuously learn, build projects and improve my problem-solving and software-development skills.
+
+### 🛠️ Core Technologies
 
 <div align="center">
 
-**Frontend** · HTML · CSS · JavaScript  
-**Backend** · Python · Django · Flask · REST APIs  
-**Database** · MySQL · SQL  
-**Tools & AI** · Git · GitHub · VS Code · TensorFlow · Keras
+`Python` · `Django` · `Flask` · `JavaScript` · `HTML` · `CSS` · `SQL` · `MySQL` · `REST APIs` · `Git` · `GitHub` · `TensorFlow`
 
 </div>
 
-### 🚀 Featured Project
+### 📌 Featured Project
 
 <div align="center">
 
-<a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/📈%20STOCKVISION-Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore StockVision" /></a>
+<a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/📈%20STOCKVISION-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="StockVision project" /></a>
 
-**StockVision** — A Flask-based stock analysis and LSTM prediction application built with **Python, yfinance and TensorFlow/Keras**.
+**StockVision** · Stock analysis and LSTM prediction application built with **Python, Flask, yfinance and TensorFlow/Keras**.
 
 </div>
 
