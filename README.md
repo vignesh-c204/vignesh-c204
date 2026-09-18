@@ -126,17 +126,6 @@ MongoDB · Express.js · React.js · Node.js · REST APIs · JWT · Git
 
 <hr>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vignesh-c204&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-c204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Most used languages" />
-<br><br>
-<img src="https://streak-stats.demolab.com?user=vignesh-c204&theme=tokyonight&hide_border=true" width="72%" alt="GitHub streak" />
-</div>
-
-<hr>
-
 <div align="center">
 
 ### 💙 BUILD • CODE • LEARN • IMPROVE
