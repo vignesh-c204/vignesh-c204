@@ -1,71 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f12,50:1b0f19,100:2f1022&height=230&section=header&text=Full%20Stack%20Developer&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Vignesh%20C%20%7C%20Python%20%7C%20Django%20%7C%20Flask&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:160b14,100:2a1020&height=220&section=header&text=Full%20Stack%20Developer&fontSize=48&fontColor=ffffff&fontAlignY=43&desc=Vignesh%20C&descSize=20&descAlignY=67" width="100%" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,mysql,git,github,vscode,tensorflow" height="42" alt="Tech stack" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=vignesh-c204&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile views" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,mysql,git,github,vscode,tensorflow" height="45" alt="Technology stack" />
 
 <br><br>
 
-<a href="https://github.com/vignesh-c204"><img src="https://img.shields.io/badge/GITHUB-VIGNESH--C204-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/FEATURED%20PROJECT-STOCKVISION-24292f?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=vignesh-c204&label=VISITORS&style=for-the-badge" alt="Profile visitors" />
+
+<br><br>
+
+<a href="https://github.com/vignesh-c204"><img src="https://img.shields.io/badge/GITHUB-VIGNESH--C204-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/FEATURED%20PROJECT-STOCKVISION-24292f?style=for-the-badge&logo=github&logoColor=white" alt="StockVision" /></a>
 
 </div>
 
 <br>
 
-## 👋 About Me
+> **Building practical software with clean code, strong fundamentals and a continuous-learning mindset. 🚀**
 
-I'm **Vignesh C**, an **MCA graduate and Full Stack Developer** focused on building practical, reliable web applications and backend systems.
+### 👋 Hello, I'm Vignesh C
 
-I work primarily with **Python, Django, Flask, JavaScript, SQL and MySQL**, with an interest in **REST APIs, backend engineering and machine learning**.
+I'm an **MCA graduate and Full Stack Developer** focused on building practical web applications, backend services and data-driven solutions.
 
-> **Building useful software. Learning continuously. Improving every day. 🚀**
+- 💻 Build full-stack applications with **Python, Django, Flask, JavaScript and SQL**.
+- ⚙️ Develop **REST APIs, backend services and database-driven applications**.
+- 🤖 Explore **Machine Learning with TensorFlow/Keras** and real-world applications.
+- 📈 Building and improving **StockVision**, a Flask + TensorFlow stock-analysis project.
+- 🌱 Continuously improving my skills in **Django, JavaScript, SQL, APIs and deployment**.
 
-## 💻 What I Do
-
-- 🧩 Build full-stack web applications from frontend to backend and database.
-- ⚙️ Develop Python-based applications, REST APIs and server-side functionality.
-- 🗄️ Work with SQL and relational databases for application data.
-- 🤖 Explore machine-learning applications with TensorFlow/Keras.
-- 🔍 Focus on clean, maintainable code and practical solutions.
-
-## 🛠️ Technologies
+### 🛠️ Tech Stack
 
 <div align="center">
 
-| Frontend | Backend | Database & Tools |
-|:---:|:---:|:---:|
-| HTML | Python | MySQL |
-| CSS | Django | SQL |
-| JavaScript | Flask | Git & GitHub |
-| | REST APIs | VS Code |
-| | TensorFlow | |
+**Frontend** · HTML · CSS · JavaScript  
+**Backend** · Python · Django · Flask · REST APIs  
+**Database** · MySQL · SQL  
+**Tools & AI** · Git · GitHub · VS Code · TensorFlow · Keras
 
 </div>
 
-## 🚀 Featured Project
+### 🚀 Featured Project
 
 <div align="center">
 
-### 📈 StockVision
+<a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/📈%20STOCKVISION-Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore StockVision" /></a>
 
-**Stock market analysis & LSTM-based prediction web application**
-
-Built with **Python, Flask, yfinance and TensorFlow/Keras**, with authentication and a prediction API.
-
-<a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-StockVision-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+**StockVision** — A Flask-based stock analysis and LSTM prediction application built with **Python, yfinance and TensorFlow/Keras**.
 
 </div>
 
-## 📚 Currently Improving
-
-**Python · Django · JavaScript · SQL · REST APIs · Deployment · Machine Learning**
-
-## 📊 GitHub
+### 📊 GitHub Activity
 
 <div align="center">
 
@@ -76,13 +61,15 @@ Built with **Python, Flask, yfinance and TensorFlow/Keras**, with authentication
 
 <img src="https://streak-stats.demolab.com?user=vignesh-c204&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak" />
 
+<br><br>
+
+**Code · Learn · Build · Improve**
+
 </div>
 
-<br>
+---
 
 <div align="center">
-
-### 💻 Code • Learn • Build • Improve
 
 **Thanks for visiting my profile! ⭐**
 
