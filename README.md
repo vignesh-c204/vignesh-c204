@@ -1,72 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:120914,100:351326&height=230&section=header&text=Full%20Stack%20Developer&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Vignesh%20C%20%7C%20Python%20%7C%20Django%20%7C%20Flask&descAlignY=65&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080d,50:06152a,100:082b52&height=250&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=VIGNESH%20C%20%7C%20BUILD%20%E2%80%A2%20CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20IMPROVE&descAlignY=63&descSize=17&animation=fadeIn" width="100%" />
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,mysql,git,github,vscode,tensorflow" height="44" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,mysql,git,github,vscode,tensorflow" height="48" alt="HTML CSS JavaScript Python Django Flask MySQL Git GitHub VS Code TensorFlow" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=vignesh-c204&label=VISITORS&style=for-the-badge" alt="Profile visitors" />
+<img src="https://komarev.com/ghpvc/?username=vignesh-c204&label=VISITORS&style=for-the-badge&color=0e75b6" alt="Profile visitors" />
 
 <br><br>
 
-<a href="https://github.com/vignesh-c204"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/STOCKVISION-24292f?style=for-the-badge&logo=github&logoColor=white" alt="StockVision" /></a>
+<a href="https://github.com/vignesh-c204"><img src="https://img.shields.io/badge/GitHub-Vignesh--C204-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/Featured%20Project-StockVision-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
-<br>
+<hr>
 
-> **Building practical software with clean code.**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-👋 **Hello! I'm Vignesh C**, an MCA graduate and Full Stack Developer from India, focused on building web applications, backend systems and data-driven solutions.
+## 👨‍💻 About Me
 
-💻 I work with **Python, Django, Flask, JavaScript, SQL and MySQL**, with a strong interest in backend development, REST APIs and machine learning.
+Hi, I'm **Vignesh C** — an **MCA graduate and Full Stack Developer** focused on building practical, responsive and data-driven applications.
 
-🚀 I'm currently building and improving **StockVision**, a Flask + TensorFlow application for stock analysis and LSTM-based prediction.
+🔹 Building with **Python, Django, Flask & JavaScript**  
+🔹 Working with **SQL & MySQL** databases  
+🔹 Developing **REST APIs & backend services**  
+🔹 Exploring **Machine Learning with TensorFlow/Keras**  
+🔹 Interested in clean, maintainable and real-world software
 
-🌱 I continuously learn, build projects and improve my problem-solving and software-development skills.
+</td>
+<td width="50%" valign="top">
 
-### 🛠️ Core Technologies
+## 🛠️ Skills & Technologies
+
+**Frontend**  
+HTML · CSS · JavaScript
+
+**Backend**  
+Python · Django · Flask · REST APIs
+
+**Database**  
+MySQL · SQL
+
+**AI / Tools**  
+TensorFlow · Keras · Git · GitHub · VS Code
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+## 🚀 Featured Project
 
 <div align="center">
 
-`Python` · `Django` · `Flask` · `JavaScript` · `HTML` · `CSS` · `SQL` · `MySQL` · `REST APIs` · `Git` · `GitHub` · `TensorFlow`
+<a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/📈%20STOCKVISION-EXPLORE%20PROJECT-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+### StockVision
+
+**Stock market analysis and LSTM-based prediction web application**
+
+Built with **Python · Flask · yfinance · TensorFlow/Keras** with authentication, data visualization and prediction functionality.
 
 </div>
 
-### 📌 Featured Project
+<hr>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/📈%20STOCKVISION-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="StockVision project" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=vignesh-c204&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
 
-**StockVision** · Stock analysis and LSTM prediction application built with **Python, Flask, yfinance and TensorFlow/Keras**.
-
-</div>
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vignesh-c204&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-c204&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-c204&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most used languages" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=vignesh-c204&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak" />
-
-<br><br>
-
-**Code · Learn · Build · Improve**
+<img src="https://streak-stats.demolab.com?user=vignesh-c204&theme=tokyonight&hide_border=true" width="72%" alt="GitHub streak" />
 
 </div>
 
----
+<hr>
 
 <div align="center">
+
+### 💙 Build. Learn. Create. Improve.
 
 **Thanks for visiting my profile! ⭐**
 
