@@ -1,85 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vignesh%20C&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20Django&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Full%20Stack%20Developer&fontSize=48&fontAlignY=38&desc=Vignesh%20C%20%7C%20Python%20%7C%20Django%20%7C%20Flask&descAlignY=60&descSize=18" width="100%" />
 
-# 👋 Hi, I'm Vignesh C
+<img src="https://komarev.com/ghpvc/?username=vignesh-c204&label=VISITORS&color=blueviolet&style=for-the-badge" alt="Profile visitors" />
 
-### 💻 Full Stack Developer | Python & Django | MCA Graduate
+<br><br>
 
-<p>
-  <a href="https://github.com/vignesh-c204"><img src="https://img.shields.io/badge/GitHub-vignesh--c204-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/Project-StockVision-0A66C2?style=for-the-badge&logo=github" /></a>
-</p>
+<a href="https://github.com/vignesh-c204"><img src="https://img.shields.io/badge/GitHub-vignesh--c204-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/vignesh-c204/StockVision"><img src="https://img.shields.io/badge/PROJECT-StockVision-0A66C2?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
+> **Building products with code. Learning every day. 🚀**
+
+### 👋 Hello!
+
+I'm **Vignesh C**, an MCA graduate and **Full Stack Developer** from India. I enjoy building practical web applications, working with Python-based backends, databases, APIs, and machine-learning projects.
+
+🔭 I'm currently building and improving full-stack applications.
+
+🌱 I'm learning **Python, Django, Flask, JavaScript, SQL, and modern web development**.
+
+🧠 I'm interested in **backend development, REST APIs, databases, and machine learning**.
+
+🚀 One of my featured projects is **StockVision**, a Python + Flask application using TensorFlow LSTM for stock-price prediction experiments.
+
 ---
 
-## 🚀 About Me
+## 🛠️ Technologies & Tools
 
-I'm **Vignesh C**, an MCA graduate and aspiring **Full Stack Developer** who enjoys building practical web applications and learning modern software development technologies.
-
-- 🔭 Currently building and improving **full-stack web projects**
-- 🌱 Learning and strengthening **Python, Django, JavaScript and web development**
-- 🧠 Interested in **backend development, APIs, databases and machine learning**
-- 💡 I enjoy turning ideas into useful applications
-- 📌 Based in India
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend skills" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask" alt="Backend skills" />
-</p>
-
-### Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="Database and tools" />
-</p>
-
-### Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,mysql,git,github,vscode,tensorflow" />
 </p>
 
 ---
 
-## 🌟 Featured Project
+## 📈 Featured Project
 
-### 📈 StockVision
+<div align="center">
 
-**StockVision** is a Python + Flask web application that fetches market data using **yfinance** and uses a trained **TensorFlow LSTM model** to generate 30-day stock-price predictions.
+### StockVision
 
-**Built with:** Python • Flask • TensorFlow/Keras • LSTM • scikit-learn • NumPy • Pandas • yfinance
+**Stock market analysis & LSTM-based price prediction**
 
-➡️ **[View StockVision →](https://github.com/vignesh-c204/StockVision)**
+<a href="https://github.com/vignesh-c204/StockVision">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-StockVision-blue?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+StockVision is a Python + Flask web application that retrieves market data with **yfinance** and uses a trained **TensorFlow/Keras LSTM model** to generate 30-day prediction results. It also includes authentication and a Flask prediction API.
 
 ---
 
-## 🧩 Full Stack Development
+## 💻 Full Stack Development
 
 ```text
-┌──────────────────────────────────────────┐
-│              FULL STACK                   │
-├──────────────┬───────────────┬───────────┤
-│   Frontend   │    Backend    │ Database  │
-│ HTML / CSS   │ Python        │ MySQL     │
-│ JavaScript   │ Django        │ SQL       │
-│              │ Flask / APIs  │           │
-└──────────────┴───────────────┴───────────┘
-```
+Frontend              Backend                 Database
+────────              ───────                 ────────
+HTML                  Python                  MySQL
+CSS                   Django                  SQL
+JavaScript            Flask                   Data handling
+                      REST APIs
 
-I focus on understanding the complete application flow — from **user interface → backend logic → APIs → database**.
+                 ↓ Complete Application ↓
+
+        UI → Backend → API → Database → ML
+```
 
 ---
 
@@ -87,19 +74,21 @@ I focus on understanding the complete application flow — from **user interface
 
 - 🐍 Advanced Python
 - 🌐 Django & REST APIs
-- ⚡ JavaScript for modern web applications
-- 🗄️ Database design and SQL
-- ☁️ Deployment and real-world application development
-- 🤖 Machine Learning fundamentals
+- ⚡ JavaScript
+- 🗄️ SQL & database design
+- ☁️ Deployment
+- 🤖 Machine Learning
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vignesh-c204&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-c204&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=vignesh-c204&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-c204&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=vignesh-c204&theme=tokyonight&hide_border=true" width="70%" />
 
@@ -107,21 +96,19 @@ I focus on understanding the complete application flow — from **user interface
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
-<a href="https://github.com/vignesh-c204">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/vignesh-c204"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💻 Build • Learn • Improve • Repeat 🚀
+### 💻 Code • Learn • Build • Improve 🚀
 
 **Thanks for visiting my profile!** ⭐
 
